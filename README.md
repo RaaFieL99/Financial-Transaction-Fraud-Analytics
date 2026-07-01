@@ -133,7 +133,7 @@ Both risk scores show **very strong correlation** with actual fraud outcomes, va
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/RaaFieL99/Financial-Transaction-Fraud-Analytics/blob/3d012cd29468d8dd658e9548b9fff667f4bbe990/Dashboard.png)
 
 **Features:**
 - 5 KPI cards (fraud count, fraud rate, transaction volume, loss amount)
@@ -159,27 +159,14 @@ Both risk scores show **very strong correlation** with actual fraud outcomes, va
 
 ---
 
-## 🚀 Future Work
-
-- [ ] Build a supervised ML model (Logistic Regression / Random Forest / XGBoost) to predict fraud in real time
-- [ ] Add SHAP/feature importance analysis for model explainability
-- [ ] Deploy a Streamlit app for live fraud scoring
-- [ ] Automate the SQL → Power BI refresh pipeline
-- [ ] Expand dataset with real-world (anonymized) transaction data
-
----
-
 ## 👤 Author
 
 **[Rishab Chakraborty]**
 BCom Student | Data Analyst
 📍 Dibrugarh, Assam
 
-- 🔗 [LinkedIn](#)
-- 🐙 [GitHub](#)
-- 📧 your.email@example.com
+- 🔗 [LinkedIn](www.linkedin.com/in/rishab-chakraborty9)
+- 🐙 [GitHub](https://github.com/RaaFieL99)
+- 📧 your.rishabhchakraborty99@example.com
 
 ---
-
-
-📧 your.email@example.com | 🔗 linkedin.com/in/yourname
