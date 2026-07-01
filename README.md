@@ -165,8 +165,8 @@ Both risk scores show **very strong correlation** with actual fraud outcomes, va
 BCom Student | Data Analyst
 📍 Dibrugarh, Assam
 
-- 🔗 [LinkedIn](www.linkedin.com/in/rishab-chakraborty9)
+- 🔗 [LinkedIn](www.linkedin.com/in/rishab-chakraborty99)
 - 🐙 [GitHub](https://github.com/RaaFieL99)
-- 📧 your.rishabhchakraborty99@example.com
+- 📧 rishabhchakraborty99@example.com
 
 ---
