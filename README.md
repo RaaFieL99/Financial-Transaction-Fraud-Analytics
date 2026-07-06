@@ -133,12 +133,14 @@ Both risk scores show **very strong correlation** with actual fraud outcomes, va
 
 ## 📈 Dashboard Preview
 
+![image alt](https://github.com/RaaFieL99/Financial-Transaction-Fraud-Analytics/blob/3522a76131fecdffd1272b9be067c8931d9d35c2/Dashboard.png)
+
 **Features:**
-- 5 KPI cards (fraud count, fraud rate, transaction volume, loss amount)
+- 5 KPI cards (Total Transaction, Total Fraud Transactions, Total Amount, Total Fraud Amount, Fraud Rate)
 - Interactive transaction type filter
-- Geographic fraud heat map
+- Bar Chart: Fraud by Transaction Tyor
 - Fraud rate breakdown by payment type
-- Donut chart: fraud vs. legitimate transaction value
+- 2 Donut chart: Fraud by Amount Range and Fraud by Merchant Category
 
 ---
 
