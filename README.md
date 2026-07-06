@@ -133,8 +133,6 @@ Both risk scores show **very strong correlation** with actual fraud outcomes, va
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](https://github.com/RaaFieL99/Financial-Transaction-Fraud-Analytics/blob/3d012cd29468d8dd658e9548b9fff667f4bbe990/Dashboard.png)
-
 **Features:**
 - 5 KPI cards (fraud count, fraud rate, transaction volume, loss amount)
 - Interactive transaction type filter
